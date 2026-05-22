@@ -1,4 +1,15 @@
-<blockquote class="tiktok-embed"
- cite="https://www.tiktok.com/@scout2015/video/6718335390845095173">
-</blockquote>
-<script async src="https://www.tiktok.com/embed.js"></script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>ArfArf</title>
+  </head>
+  <body>
+    <h1>Welcome to ArfArf!</h1>
+    <p>Here is my TikTok:</p>
+    <blockquote class="tiktok-embed"
+      cite="https://www.tiktok.com/@scout2015/video/6718335390845095173">
+    </blockquote>
+    <script async src="https://www.tiktok.com/embed.js"></script>
+  </body>
+</html>
